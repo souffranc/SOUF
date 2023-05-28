@@ -1,0 +1,3 @@
+C:/Users/sasha/Documents/GitHub/SOUF/cmake-build-debug/CMakeFiles/SOUF.dir
+C:/Users/sasha/Documents/GitHub/SOUF/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sasha/Documents/GitHub/SOUF/cmake-build-debug/CMakeFiles/rebuild_cache.dir
